@@ -1,0 +1,1401 @@
+!!!start!!!
+epoch 10
+param [20, 20, 3, 4, 0, 100, 100]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 37.6 5.517245689653489
+total_area_avg = 489.8 71.60558637424876
+total_out_avg =  3.8 2.4413111231467406
+depth
+total_insert_avg = 30.1 7.2034713853808015
+total_area_avg = 395.4 85.6063081787785
+total_out_avg =  10.0 4.0
+quad2
+total_insert_avg = 38.0 6.870225614927067
+total_area_avg = 493.2 86.8444586602968
+total_out_avg =  3.7 2.238302928559939
+quad4
+total_insert_avg = 37.8 7.345747068882783
+total_area_avg = 488.2 92.54706910540172
+total_out_avg =  4.1 1.1357816691600546
+epoch 10
+param [20, 20, 3, 4, 0, 100, 100]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 38.4 6.452906321960671
+total_area_avg = 502.1 76.01901078019893
+total_out_avg =  3.3 1.5524174696260022
+depth
+total_insert_avg = 31.6 6.406246951218788
+total_area_avg = 409.3 74.7877663792682
+total_out_avg =  9.6 2.0591260281974
+quad2
+total_insert_avg = 37.3 5.797413216254298
+total_area_avg = 483.6 62.05352528261388
+total_out_avg =  4.6 1.8547236990991407
+quad4
+total_insert_avg = 37.8 8.8068155425216
+total_area_avg = 486.2 96.41555891037504
+total_out_avg =  2.6 2.009975124224178
+epoch 10
+param [20, 20, 3, 4, 0, 150, 150]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 75.6 5.180733538795447
+total_area_avg = 968.6 69.03796057242711
+total_out_avg =  4.9 2.7730849247724096
+depth
+total_insert_avg = 68.7 5.848931526355903
+total_area_avg = 876.2 76.83723055915017
+total_out_avg =  11.5 3.4132096331752027
+quad2
+total_insert_avg = 73.3 5.814636704042652
+total_area_avg = 933.1 64.30311034467928
+total_out_avg =  3.7 2.1
+quad4
+total_insert_avg = 72.2 5.1146847410177685
+total_area_avg = 920.0 68.8040696470783
+total_out_avg =  3.8 1.7204650534085253
+epoch 10
+param [20, 20, 3, 4, 0, 200, 200]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 120.2 7.678541528180986
+total_area_avg = 1516.4 88.36764113633453
+total_out_avg =  5.8 2.3579652245103193
+depth
+total_insert_avg = 110.5 10.781929326423912
+total_area_avg = 1385.4 137.94941101722762
+total_out_avg =  11.5 4.272001872658765
+quad2
+total_insert_avg = 118.3 9.51892851112981
+total_area_avg = 1489.3 118.60442656157484
+total_out_avg =  3.9 1.3747727084867523
+quad4
+total_insert_avg = 118.4 8.077128202523468
+total_area_avg = 1490.0 110.52149112276761
+total_out_avg =  3.9 1.8138357147217055
+epoch 10
+param [20, 20, 3, 4, 0, 250, 250]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 165.6 6.421837743200929
+total_area_avg = 2072.2 72.74585898867372
+total_out_avg =  5.1 1.8681541692269403
+depth
+total_insert_avg = 155.2 6.4
+total_area_avg = 1931.2 88.25735096863038
+total_out_avg =  10.2 2.315167380558045
+quad2
+total_insert_avg = 163.6 8.039900496896712
+total_area_avg = 2027.1 89.0735089687164
+total_out_avg =  5.8 2.2715633383201093
+quad4
+total_insert_avg = 162.8 5.74108003776293
+total_area_avg = 2039.2 59.8611727248974
+total_out_avg =  4.0 2.32379000772445
+!!!start!!!
+epoch 10
+param [30, 30, 3, 4, 0, 100, 100]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 4.3 5.640035460881429
+total_area_avg = 57.0 69.88705173349352
+total_out_avg =  11.0 3.6606010435446255
+depth
+total_insert_avg = 0.0 0.0
+total_area_avg = 0.0 0.0
+total_out_avg =  39.3 3.661966684720111
+quad2
+total_insert_avg = 6.6 5.180733538795447
+total_area_avg = 89.7 63.979762425316956
+total_out_avg =  5.7 3.1
+quad4
+total_insert_avg = 3.3 2.9
+total_area_avg = 45.9 40.071061877619364
+total_out_avg =  9.8 3.682390527904394
+epoch 10
+param [30, 30, 3, 6, 0, 150, 150]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 57.2 8.44748483277715
+total_area_avg = 1335.7 202.80140532057464
+total_out_avg =  7.5 2.9410882339705484
+depth
+total_insert_avg = 46.6 5.4808758424178885
+total_area_avg = 1128.1 105.37879293292366
+total_out_avg =  25.1 6.503076195155644
+quad2
+total_insert_avg = 57.4 10.565983153497832
+total_area_avg = 1322.3 250.34657976493307
+total_out_avg =  7.3 1.7349351572897473
+quad4
+total_insert_avg = 57.1 10.14347080638575
+total_area_avg = 1312.9 221.5303365230144
+total_out_avg =  6.8 3.6551333764994123
+epoch 10
+param [30, 30, 3, 6, 0, 200, 200]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 101.0 10.478549517943788
+total_area_avg = 2257.5 158.7282268533231
+total_out_avg =  12.4 7.073895673530958
+depth
+total_insert_avg = 87.3 8.355237878121724
+total_area_avg = 2015.3 163.5744784494207
+total_out_avg =  24.7 5.000999900019995
+quad2
+total_insert_avg = 97.6 8.114185110040317
+total_area_avg = 2232.5 147.62333826329765
+total_out_avg =  7.6 3.104834939252004
+quad4
+total_insert_avg = 101.0 9.919677414109795
+total_area_avg = 2277.9 162.7424038165837
+total_out_avg =  9.0 5.385164807134504
+epoch 10
+param [30, 30, 3, 6, 0, 250, 250]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 141.2 11.574109036984229
+total_area_avg = 3140.0 256.5041909988997
+total_out_avg =  11.4 4.476605857119878
+depth
+total_insert_avg = 125.1 9.060353193998566
+total_area_avg = 2834.1 187.72770173844881
+total_out_avg =  27.6 6.726068688320095
+quad2
+total_insert_avg = 140.1 11.785160160133591
+total_area_avg = 3109.9 239.2398169201774
+total_out_avg =  9.5 5.06458290484024
+quad4
+total_insert_avg = 139.4 12.257242756835648
+total_area_avg = 3097.0 270.5472232346878
+total_out_avg =  9.2 2.6758176320519302
+!!!start!!!
+epoch 10
+param [30, 30, 3, 6, 0, 100, 100]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 23.9 4.570557952810575
+total_area_avg = 607.4 108.85513308980886
+total_out_avg =  8.0 3.22490309931942
+depth
+total_insert_avg = 16.7 4.473253849269009
+total_area_avg = 441.9 114.37609015873903
+total_out_avg =  20.7 3.9761790704142084
+quad2
+total_insert_avg = 23.6 4.715930449020639
+total_area_avg = 591.9 127.36047267500227
+total_out_avg =  5.5 2.202271554554524
+quad4
+total_insert_avg = 22.7 4.148493702538308
+total_area_avg = 581.7 100.543572643904
+total_out_avg =  7.5 3.0083217912982647
+!!!start!!!
+epoch 10
+param [30, 30, 3, 6, 10, 100, 100]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 34.1 5.430469592954186
+total_area_avg = 827.7 121.55167625335325
+total_out_avg =  6.5 2.4186773244895647
+depth
+total_insert_avg = 25.6 4.8207883172775805
+total_area_avg = 672.3 125.09040730607603
+total_out_avg =  20.9 6.394528911499267
+quad2
+total_insert_avg = 32.8 6.462197768561405
+total_area_avg = 784.9 154.60106726669127
+total_out_avg =  5.8 3.54400902933387
+quad4
+total_insert_avg = 30.4 5.5533773507659285
+total_area_avg = 753.9 137.10102114864063
+total_out_avg =  9.5 3.2326459750489227
+
+
+new outMethod
+new outMethodnew outMethodnew outMethodnew outMethodnew outMethodnew outMethodnew outMethodnew outMethodnew outMethod
+new outMethodnew outMethodnew outMethodnew outMethodnew outMethod
+
+epoch 50
+param [20, 20, 3, 4, 0, 250, 250]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 164.28 8.217152791569596
+total_area_avg = 2071.66 102.46767490286877
+total_out_avg =  5.62 2.208076085645601
+total_time =  1.8221431255340577 0.1567769286675703
+depth
+total_insert_avg = 155.16 7.590415008416865
+total_area_avg = 1946.08 100.50449542184667
+total_out_avg =  11.8 3.9140771581561853
+total_time =  2.381316828727722 0.26691903431221164
+quad2
+total_insert_avg = 161.78 7.222991070186921
+total_area_avg = 2036.42 99.75170975978307
+total_out_avg =  4.92 2.225668438918969
+total_time =  32.942253847122196 0.5396860697340276
+quad4
+total_insert_avg = 163.7 7.718160402582988
+total_area_avg = 2054.78 93.43774183915191
+total_out_avg =  4.5 2.570992026436488
+total_time =  517.0760533475876 51.794893028418976
+
+
+
+!!!start!!!
+epoch 50
+param [20, 20, 3, 4, 0, 100, 100]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 36.92 6.225238951237133
+total_area_avg = 477.36 81.0066071379366
+total_out_avg =  4.32 2.4854778212649573
+total_time =  0.6677189016342163 0.14537251854467953
+depth
+total_insert_avg = 29.62 6.799676462891452
+total_area_avg = 383.7 86.44865528161787
+total_out_avg =  10.28 4.08920530176708
+total_time =  1.033016004562378 0.22478513590664867
+quad2
+total_insert_avg = 34.78 6.792024734937293
+total_area_avg = 451.72 83.02217535092657
+total_out_avg =  4.1 2.220360331117452
+total_time =  2.512849655151367 0.16178556128169752
+quad4
+total_insert_avg = 35.88 7.575328375720752
+total_area_avg = 460.5 93.2807054004203
+total_out_avg =  3.7 2.418677324489565
+total_time =  33.284537172317506 3.9594054050435514
+epoch 50
+param [20, 20, 3, 4, 0, 150, 150]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 75.56 7.247509917206047
+total_area_avg = 952.52 89.73276770500284
+total_out_avg =  5.44 2.706732347314747
+total_time =  0.8945288944244385 0.16249550481825042
+depth
+total_insert_avg = 66.72 7.351299204902491
+total_area_avg = 839.02 88.96886871260081
+total_out_avg =  11.3 4.93254498205541
+total_time =  1.268568000793457 0.2681838453013091
+quad2
+total_insert_avg = 74.2 8.609297300012352
+total_area_avg = 934.28 102.81012401509884
+total_out_avg =  4.28 2.332723729891733
+total_time =  4.824912390708923 0.19008934295229293
+quad4
+total_insert_avg = 74.88 7.868011184537043
+total_area_avg = 940.96 97.77238055811058
+total_out_avg =  4.36 2.2517548712060114
+total_time =  75.70674488067627 9.768951850828545
+epoch 50
+param [20, 20, 3, 4, 0, 200, 200]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 118.32 7.540397867486834
+total_area_avg = 1494.98 85.1221451797357
+total_out_avg =  5.98 2.8669844785069905
+total_time =  1.083934679031372 0.16517732731022053
+depth
+total_insert_avg = 110.66 7.328328595252808
+total_area_avg = 1394.66 80.2672062551077
+total_out_avg =  11.8 4.161730409336963
+total_time =  1.449482045173645 0.2571014536461861
+quad2
+total_insert_avg = 118.38 7.714635441807993
+total_area_avg = 1487.54 95.62117129590078
+total_out_avg =  4.16 2.2032702966272657
+total_time =  7.9716461515426635 0.22961980908693863
+quad4
+total_insert_avg = 118.34 8.051360133542655
+total_area_avg = 1489.82 93.71738152552065
+total_out_avg =  4.8 2.5219040425836985
+total_time =  128.85786888122558 12.765739289799548
+!!!start!!!
+epoch 50
+param [20, 20, 3, 4, 0, 100, 100]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+2
+
+#################
+trans out method
+!!!start!!!
+epoch 50
+param [20, 20, 3, 4, 0, 100, 100]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 35.34 5.82274849190655
+total_area_avg = 455.4 71.65947250712917
+total_out_avg =  4.38 2.296867431960321
+total_time =  0.6683533430099488 0.12374674428702596
+depth
+total_insert_avg = 27.96 6.566460233641867
+total_area_avg = 363.92 84.0875353426416
+total_out_avg =  11.66 4.3155996107145995
+total_time =  1.2819488000869752 0.305786990007041
+quad2
+total_insert_avg = 33.56 5.943601601722646
+total_area_avg = 434.12 74.76754376064524
+total_out_avg =  4.04 2.1162230506258077
+total_time =  2.633054051399231 0.19400912567640563
+quad4
+total_insert_avg = 34.4 6.144916598294887
+total_area_avg = 444.26 77.41777831996988
+total_out_avg =  4.36 2.3044305153334523
+total_time =  35.329533495903014 4.385290948048379
+epoch 50
+param [20, 20, 3, 4, 0, 150, 150]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 78.02 7.561719381198961
+total_area_avg = 991.22 95.33987413459282
+total_out_avg =  4.9 2.5787593916455256
+total_time =  0.8533142375946045 0.14359765640103167
+depth
+total_insert_avg = 68.66 7.157122326745575
+total_area_avg = 872.64 87.45713464320677
+total_out_avg =  11.1 4.201190307520001
+total_time =  1.4822897052764892 0.32698085788699943
+quad2
+total_insert_avg = 75.0 7.277362159464101
+total_area_avg = 950.8 87.9251954788842
+total_out_avg =  4.2 2.4413111231467406
+total_time =  5.081013898849488 0.25960950181038384
+quad4
+total_insert_avg = 74.88 7.240552465109275
+total_area_avg = 952.94 85.99358348155982
+total_out_avg =  4.44 2.376215478444663
+total_time =  78.19647585391998 8.927572205495707
+epoch 50
+param [20, 20, 3, 4, 0, 200, 200]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 118.08 10.44766002509653
+total_area_avg = 1487.14 128.27517452726383
+total_out_avg =  6.12 2.8610487587596265
+total_time =  1.0808372688293457 0.16612613786671
+depth
+total_insert_avg = 109.24 10.011113824145642
+total_area_avg = 1368.62 119.07642755810237
+total_out_avg =  12.24 4.202665820642893
+total_time =  1.8544937419891356 0.38865626353800925
+quad2
+total_insert_avg = 117.5 9.2655275079188
+total_area_avg = 1473.46 108.41885629354333
+total_out_avg =  4.96 2.8422526277584823
+total_time =  8.450130939483643 0.325012376226829
+quad4
+total_insert_avg = 116.86 8.795476109910139
+total_area_avg = 1469.36 102.22206415446716
+total_out_avg =  4.84 3.0023990407672327
+total_time =  137.53516627788542 16.51140674774816
+!!!start!!!
+epoch 50
+param [20, 20, 3, 4, 0, 250, 250]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 167.76 8.945524020424964
+total_area_avg = 2095.02 107.30824572231157
+total_out_avg =  5.28 2.474186735070738
+total_time =  1.1746360635757447 0.1446003774139365
+depth
+total_insert_avg = 157.42 9.877428815233245
+total_area_avg = 1967.26 124.1756513975264
+total_out_avg =  10.84 4.40163605946698
+total_time =  1.9849672317504883 0.4438077522395687
+quad2
+total_insert_avg = 164.7 8.982761268117951
+total_area_avg = 2056.54 114.16482996089469
+total_out_avg =  4.58 2.4502244795120305
+total_time =  12.438390655517578 0.33452675038129515
+quad4
+total_insert_avg = 164.32 8.927351230908302
+total_area_avg = 2053.18 104.95231107507828
+total_out_avg =  4.6 2.6832815729997477
+total_time =  208.22228181362152 25.08656489476658
+!!!start!!!
+epoch 50
+param [30, 30, 3, 7, 0, 100, 100]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 28.5 5.9169248769948055
+total_area_avg = 886.92 173.63131514793062
+total_out_avg =  6.16 2.7302747114530432
+total_time =  1.7797685861587524 0.3850013503014133
+depth
+total_insert_avg = 20.66 5.1248804864113655
+total_area_avg = 679.66 156.03186982152073
+total_out_avg =  17.68 5.497053756331659
+total_time =  3.6547947406768797 0.9670250702364637
+quad2
+total_insert_avg = 27.92 5.925672957563554
+total_area_avg = 873.3 177.7989032587097
+total_out_avg =  5.22 2.6554848898082626
+total_time =  3.7089091634750364 0.4773790024156651
+quad4
+total_insert_avg = 27.2 5.796550698475776
+total_area_avg = 843.94 160.46412807852104
+total_out_avg =  6.14 2.6382570003697516
+total_time =  51.321974992752075 7.608343708443922
+epoch 50
+param [30, 30, 3, 7, 0, 150, 150]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 66.06 7.006882330965748
+total_area_avg = 1948.88 184.09471909862052
+total_out_avg =  7.08 2.733788579974684
+total_time =  2.238231410980225 0.4344735268795986
+depth
+total_insert_avg = 56.74 6.7551757934194425
+total_area_avg = 1729.22 172.70950060723354
+total_out_avg =  18.68 5.732154917655314
+total_time =  4.357984018325806 1.0109627470143485
+quad2
+total_insert_avg = 64.36 7.229827107199729
+total_area_avg = 1907.28 200.35628664955837
+total_out_avg =  6.66 2.9705891671518634
+total_time =  6.574351091384887 0.5995693453664027
+quad4
+total_insert_avg = 64.36 7.18264575208885
+total_area_avg = 1908.52 189.84754304441236
+total_out_avg =  6.88 3.2902279556286067
+total_time =  107.9103904390335 11.331871064741282
+epoch 50
+param [30, 30, 3, 7, 0, 200, 200]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 107.1 6.643041472096949
+total_area_avg = 3039.26 188.87771811412802
+total_out_avg =  7.12 3.01091348264941
+total_time =  2.63223192691803 0.49843097217812105
+depth
+total_insert_avg = 97.6 5.758472019555187
+total_area_avg = 2809.66 176.02415856921456
+total_out_avg =  18.64 5.050782117652671
+total_time =  4.953103179931641 1.0259280008194316
+quad2
+total_insert_avg = 105.7 5.74543296888929
+total_area_avg = 3006.3 171.0803612341288
+total_out_avg =  7.06 3.183771348573889
+total_time =  10.255031108856201 0.7626523335545571
+quad4
+total_insert_avg = 106.08 6.137882370981053
+total_area_avg = 3011.28 151.1854543267969
+total_out_avg =  6.62 2.5991537084212624
+total_time =  189.956416888237 19.37634230523389
+!!!start!!!
+epoch 50
+param [30, 40, 3, 7, 0, 100, 100]
+methods ['random', 'depth', 'quad2']
+flag [True, True, True, True]
+random
+total_insert_avg = 18.6 6.486909896090742
+total_area_avg = 606.48 210.185559922655
+total_out_avg =  7.48 3.3540423372402444
+total_time =  3.2359918308258058 1.1937337183865238
+depth
+total_insert_avg = 10.82 6.269577338226238
+total_area_avg = 389.26 211.4577792373693
+total_out_avg =  25.48 7.2697730363471464
+total_time =  8.791571989059449 4.2653900857050715
+quad2
+total_insert_avg = 18.24 6.64096378547572
+total_area_avg = 601.34 205.172279804071
+total_out_avg =  6.94 3.221241996497624
+total_time =  5.281433167457581 1.1244749070087146
+epoch 50
+param [30, 40, 3, 7, 0, 150, 150]
+methods ['random', 'depth', 'quad2']
+flag [True, True, True, True]
+random
+total_insert_avg = 49.24 9.959036097936387
+total_area_avg = 1491.88 249.87025753378492
+total_out_avg =  10.52 3.6289943510565013
+total_time =  4.732747578620911 1.6114979608244937
+depth
+total_insert_avg = 38.04 9.635268548411092
+total_area_avg = 1215.94 257.8572791293664
+total_out_avg =  31.62 9.92348729026243
+total_time =  11.62218318939209 5.477560325775111
+quad2
+total_insert_avg = 48.94 9.996819494219148
+total_area_avg = 1480.92 255.8719085792733
+total_out_avg =  9.64 4.37154434954056
+total_time =  9.14945454597473 1.954389378306186
+epoch 50
+param [30, 40, 3, 7, 0, 200, 200]
+methods ['random', 'depth', 'quad2']
+flag [True, True, True, True]
+random
+total_insert_avg = 85.38 11.448825267249038
+total_area_avg = 2445.06 277.2552188868588
+total_out_avg =  12.18 5.144667141808108
+total_time =  5.650338516235352 1.8900669640227972
+depth
+total_insert_avg = 70.86 11.735433524160921
+total_area_avg = 2102.88 307.63573524543597
+total_out_avg =  35.18 10.95753621942451
+total_time =  13.880213828086854 5.564791073808988
+quad2
+total_insert_avg = 83.74 10.777402284409726
+total_area_avg = 2423.32 257.83292574843887
+total_out_avg =  11.86 4.0792646396133705
+total_time =  13.692300295829773 2.126164203175057
+!!!start!!!
+epoch 50
+param [20, 30, 3, 4, 0, 100, 100]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, False, False, False]
+random
+total_insert_avg = 46.02 11.311038855914163
+total_area_avg = 578.16 135.61996313227635
+total_out_avg =  8.92 5.9492520538299605
+total_time =  1.4616058444976807 0.8957576073656942
+depth
+total_insert_avg = 18.34 13.58765616285605
+total_area_avg = 231.88 169.39169283055176
+total_out_avg =  72.34 37.83998414375989
+total_time =  16.117135057449342 12.597200767726541
+quad2
+total_insert_avg = 49.1 10.477117924314873
+total_area_avg = 613.72 128.96558300569964
+total_out_avg =  5.52 3.981155611125996
+total_time =  3.2596273756027223 0.6461150383393442
+quad4
+total_insert_avg = 45.58 10.361640796707826
+total_area_avg = 570.94 126.00546178638447
+total_out_avg =  6.54 4.9767861115382495
+total_time =  37.95590763568878 14.486318489990722
+epoch 50
+param [20, 20, 3, 4, 0, 150, 150]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, False, False, False]
+random
+total_insert_avg = 104.32 6.107176106843489
+total_area_avg = 1305.46 76.8622690271371
+total_out_avg =  5.12 3.5306656596171777
+total_time =  0.7470500659942627 0.143834115868042
+depth
+total_insert_avg = 84.94 9.272345981465532
+total_area_avg = 1055.28 113.82566318717409
+total_out_avg =  26.86 16.17530216101078
+total_time =  3.4135118770599364 2.0705455055494753
+quad2
+total_insert_avg = 104.84 6.432293525640756
+total_area_avg = 1307.94 75.67229611951788
+total_out_avg =  4.24 3.307929866245655
+total_time =  5.047729034423828 0.34545074785011853
+quad4
+total_insert_avg = 103.42 6.621449992260003
+total_area_avg = 1294.6 80.3900491354496
+total_out_avg =  4.36 2.930938416275579
+total_time =  47.948610196113584 6.1836385804612
+epoch 50
+param [20, 20, 3, 4, 0, 200, 200]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, False, False, False]
+random
+total_insert_avg = 151.2 6.352952069707436
+total_area_avg = 1869.94 91.11540155209767
+total_out_avg =  5.2 4.317406628984581
+total_time =  0.8764248132705689 0.18063090108395483
+depth
+total_insert_avg = 130.58 11.257157722977857
+total_area_avg = 1617.58 142.90305665030402
+total_out_avg =  24.26 15.561246736685336
+total_time =  3.612190885543823 2.0429895718160567
+quad2
+total_insert_avg = 151.52 7.32185768777296
+total_area_avg = 1874.86 91.82026138059074
+total_out_avg =  4.34 3.1471256727369497
+total_time =  8.31720832824707 0.42913910034265285
+quad4
+total_insert_avg = 151.72 7.238894943290722
+total_area_avg = 1880.06 88.29369399906201
+total_out_avg =  3.88 2.8540497542965153
+total_time =  82.80596297740937 14.446382244266923
+!!!start!!!
+epoch 50
+param [20, 30, 3, 4, 0, 100, 100]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, False]
+random
+total_insert_avg = 24.26 9.484323908429108
+total_area_avg = 314.6 118.19864635434705
+total_out_avg =  10.06 4.8473085315461395
+total_time =  1.7834173822402954 0.8642434827081099
+depth
+total_insert_avg = 11.92 10.671157388024975
+total_area_avg = 156.92 132.9996751875733
+total_out_avg =  32.42 12.798578046017456
+total_time =  6.502295112609863 3.838777511965459
+quad2
+total_insert_avg = 24.92 8.57167428219248
+total_area_avg = 321.14 106.62513962476204
+total_out_avg =  7.52 3.2014996486021987
+total_time =  3.6654753160476683 0.6273643611701818
+quad4
+total_insert_avg = 23.42 10.299689315702683
+total_area_avg = 302.88 126.73936089471178
+total_out_avg =  8.84 4.666304747870631
+total_time =  66.02006937503815 37.60605983931179
+epoch 50
+param [20, 20, 3, 4, 0, 150, 150]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, False]
+random
+total_insert_avg = 82.62 7.737932540414139
+total_area_avg = 1040.58 90.87267796208054
+total_out_avg =  5.54 3.0868106517893192
+total_time =  0.8536829137802124 0.16653585170877405
+depth
+total_insert_avg = 71.16 7.9557777746742016
+total_area_avg = 892.6 97.52476608533856
+total_out_avg =  13.24 6.510176648908999
+total_time =  1.697978320121765 0.6489475641560741
+quad2
+total_insert_avg = 81.32 7.069483715236919
+total_area_avg = 1023.2 86.443507564189
+total_out_avg =  4.96 2.505673562138532
+total_time =  6.944411225318909 12.922487427388354
+quad4
+total_insert_avg = 80.28 6.8906893704476335
+total_area_avg = 1008.74 88.81031696824418
+total_out_avg =  5.74 3.03189709587908
+total_time =  261.9150499296188 640.3541845641698
+
+# ##################### schedule change
+!!!start!!!
+epoch 50
+param [20, 30, 3, 4, 0, 50, 50]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, False]
+
+random
+total_insert_avg = 23.28 4.652053310098671
+total_area_avg = 294.9 59.56282397603391
+total_out_avg =  1.76 1.3792751719653336
+total_time =  0.528479790687561 0.24982257964483856
+depth
+total_insert_avg = 10.08 6.8930109531321655
+total_area_avg = 134.52 88.66143242695777
+total_out_avg =  11.74 6.749251810386096
+total_time =  2.450965156555176 2.018712200518002
+quad2
+total_insert_avg = 23.6 5.1884487084291395
+total_area_avg = 298.9 60.73919657025437
+total_out_avg =  1.4 1.3416407864998738
+total_time =  1.088349232673645 0.25976520590672314
+quad4
+total_insert_avg = 24.32 5.6866158653455745
+total_area_avg = 306.46 69.09535729699934
+total_out_avg =  1.42 1.5885842753848474
+total_time =  11.370676379203797 2.0208598713763357
+epoch 50
+param [20, 20, 3, 4, 0, 100, 100]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, False]
+random
+total_insert_avg = 81.42 1.4978651474682223
+total_area_avg = 1004.84 28.188196111138435
+total_out_avg =  0.96 1.0384603988597734
+total_time =  0.36799829959869385 0.05064476318621012
+depth
+total_insert_avg = 73.78 1.063766891757776
+total_area_avg = 911.6 26.349193536045842
+total_out_avg =  4.38 2.5130857526156962
+total_time =  0.6903980636596679 0.2004988314736339
+quad2
+total_insert_avg = 81.62 2.1807338214463496
+total_area_avg = 1006.54 30.671296027393428
+total_out_avg =  0.74 0.7952358140828417
+total_time =  2.4971951770782472 0.08620559006102121
+quad4
+total_insert_avg = 81.76 2.1312906887611556
+total_area_avg = 1008.68 33.5299507903009
+total_out_avg =  0.82 1.160861748874516
+total_time =  34.09713001728058 5.292340339024215
+epoch 50
+param [20, 20, 3, 4, 0, 150, 150]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, False]
+
+random
+total_insert_avg = 131.66 1.7844887222955486
+total_area_avg = 1616.46 37.25759519883161
+total_out_avg =  0.86 1.0199999999999998
+total_time =  0.494668984413147 0.053898891174265016
+depth
+total_insert_avg = 123.92 1.197330363767661
+total_area_avg = 1523.18 32.40721524599113
+total_out_avg =  4.12 2.1876014262200507
+total_time =  0.8580718564987183 0.24273119595645126
+quad2
+total_insert_avg = 131.6 2.584569596664017
+total_area_avg = 1617.42 42.59299942478811
+total_out_avg =  0.62 0.8919641248391103
+total_time =  5.205195326805114 0.12563193244600612
+quad4
+total_insert_avg = 131.74 2.2874439883852893
+total_area_avg = 1617.46 37.30373171681353
+total_out_avg =  0.74 0.8901685233707155
+total_time =  80.28215674877167 13.273295451015947
+
+!!!start!!!
+epoch 50
+param [20, 30, 3, 4, 10, 50, 60]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, False]
+random
+total_insert_avg = 32.94 4.509589781787253
+total_area_avg = 411.7 60.1332686621973
+total_out_avg =  1.6 1.3856406460551018
+total_time =  0.489980525970459 0.24680598084296426
+depth
+total_insert_avg = 24.28 7.944910320450446
+total_area_avg = 307.48 98.32074857322843
+total_out_avg =  6.74 4.586109462278458
+total_time =  1.4996629285812377 1.1996774451829504
+quad2
+total_insert_avg = 32.64 5.117655713312493
+total_area_avg = 408.22 67.68346622329564
+total_out_avg =  1.66 2.006090725764914
+total_time =  1.1005725002288818 0.3559317416454163
+quad4
+total_insert_avg = 34.18 4.416740879879643
+total_area_avg = 426.14 57.777853888838756
+total_out_avg =  1.1 1.1357816691600546
+total_time =  8.502008490562439 2.4371714665586506
+epoch 50
+param [20, 30, 3, 4, 10, 100, 110]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, False]
+random
+total_insert_avg = 81.74 5.847426784492474
+total_area_avg = 1014.02 71.05335741539594
+total_out_avg =  1.72 1.6375591592366978
+total_time =  0.7672141313552856 0.3825417915276257
+depth
+total_insert_avg = 71.62 9.530771217482876
+total_area_avg = 891.98 115.83462176741459
+total_out_avg =  7.7 4.725462940284264
+total_time =  2.0896025037765504 1.5756219660786035
+quad2
+total_insert_avg = 81.1 5.838664230798
+total_area_avg = 1005.72 72.31460156842462
+total_out_avg =  1.74 1.4671059948074643
+total_time =  2.984389705657959 0.3449716685548137
+quad4
+total_insert_avg = 82.04 5.440441158582638
+total_area_avg = 1017.3 68.1986070238975
+total_out_avg =  1.62 1.5477725931156683
+total_time =  35.98060170650482 11.24729009784105
+epoch 50
+param [20, 30, 3, 4, 0, 150, 160]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, False]
+!!!start!!!
+epoch 50
+param [20, 30, 3, 4, 10, 50, 60]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 29.48 4.609728842350708
+total_area_avg = 369.3 53.86696575824556
+total_out_avg =  1.74 1.4941218156495808
+total_time =  0.6838732337951661 0.31254942450414763
+depth
+total_insert_avg = 22.16 6.926355463012277
+total_area_avg = 281.96 80.56847025977346
+total_out_avg =  5.38 3.065224298481271
+total_time =  1.5760713338851928 0.9734434698984371
+quad2
+total_insert_avg = 29.7 5.481788029466299
+total_area_avg = 372.02 64.58931490579536
+total_out_avg =  1.52 1.6880758276807353
+total_time =  2.2986056184768677 0.7453737662049902
+quad4
+total_insert_avg = 29.72 4.686320518274438
+total_area_avg = 371.52 55.17399387392579
+total_out_avg =  1.42 1.1329607230614838
+total_time =  23.741861457824708 4.633967071166585
+epoch 50
+param [20, 30, 3, 4, 10, 100, 110]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 79.96 5.325260557005638
+total_area_avg = 988.7 66.78001197963354
+total_out_avg =  1.4 1.1832159566199232
+total_time =  0.9230119276046753 0.3301997742128009
+depth
+total_insert_avg = 71.0 8.255906976220118
+total_area_avg = 882.5 102.87375758666542
+total_out_avg =  6.24 4.61978354471289
+total_time =  2.5926841497421265 2.1436477194575185
+quad2
+total_insert_avg = 79.58 6.569901064704094
+total_area_avg = 984.2 83.31338427887802
+total_out_avg =  1.64 1.3821722034536796
+total_time =  6.9923284196853634 0.6509862838348452
+quad4
+total_insert_avg = 79.76 5.732573593073185
+total_area_avg = 986.74 70.78553807099301
+total_out_avg =  1.48 1.4593149077563758
+total_time =  97.2694980287552 26.03357452103667
+epoch 50
+param [20, 30, 3, 4, 1, 150, 150]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 121.94 5.170725287616816
+total_area_avg = 1500.66 70.76033069453534
+total_out_avg =  1.26 1.0734989520255713
+total_time =  1.183810329437256 0.28713280468259406
+depth
+total_insert_avg = 110.0 7.774316690230724
+total_area_avg = 1358.86 97.68193487027169
+total_out_avg =  8.66 5.290028355311529
+total_time =  3.98591338634491 3.596214333606512
+quad2
+total_insert_avg = 122.32 5.342059527934896
+total_area_avg = 1505.04 72.8068568199452
+total_out_avg =  0.94 1.0846197490365
+total_time =  14.308498468399048 0.5197040345465731
+quad4
+total_insert_avg = 121.12 4.697403538126142
+total_area_avg = 1492.5 67.61930197805948
+total_out_avg =  1.46 1.135077089893017
+total_time =  652.896366238594 1676.6820205483004
+!!!start!!!
+epoch 50
+param [20, 30, 3, 4, 10, 50, 60]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, False, False, False]
+random
+total_insert_avg = 40.46 4.6441791524444875
+total_area_avg = 499.72 58.55836063279094
+total_out_avg =  1.88 1.8181309083781618
+total_time =  0.4715395450592041 0.27031810145103347
+depth
+total_insert_avg = 29.84 10.423742130348389
+total_area_avg = 369.12 129.31923909457555
+total_out_avg =  8.68 9.347598622106107
+total_time =  2.0991367864608765 2.8360979753470383
+quad2
+total_insert_avg = 40.62 4.728170893696631
+total_area_avg = 500.4 59.403366907945546
+total_out_avg =  1.74 1.7867288546391138
+total_time =  1.0521950721740723 0.30249564966767006
+quad4
+total_insert_avg = 42.08 3.6651875804656986
+total_area_avg = 518.88 47.007931245695126
+total_out_avg =  1.08 0.9765244492586962
+total_time =  5.167434864044189 1.9577067740310945
+epoch 50
+param [20, 30, 3, 4, 10, 100, 110]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, False, False, False]
+random
+total_insert_avg = 89.68 3.946846842734083
+total_area_avg = 1102.74 54.73017814697848
+total_out_avg =  2.08 1.6951696080333674
+total_time =  0.6860215425491333 0.22539038717383955
+depth
+total_insert_avg = 78.84 9.80277511728184
+total_area_avg = 973.02 121.52900723695558
+total_out_avg =  9.26 8.90125833801042
+total_time =  2.6053632068634034 2.759894524586134
+quad2
+total_insert_avg = 90.18 4.439324272904605
+total_area_avg = 1109.12 59.40560242940054
+total_out_avg =  1.76 2.789695323866031
+total_time =  2.900712652206421 0.578949606069635
+quad4
+total_insert_avg = 92.2 3.1304951684997055
+total_area_avg = 1133.46 44.70758772289106
+total_out_avg =  0.96 1.1306635220082055
+total_time =  19.237493138313294 6.909131373999908
+epoch 50
+param [20, 30, 3, 4, 1, 150, 150]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, False, False, False]
+random
+total_insert_avg = 131.9 4.809365862564419
+total_area_avg = 1623.98 61.516010923986286
+total_out_avg =  1.8 1.5099668870541498
+total_time =  0.8488826751708984 0.28940201502155305
+depth
+total_insert_avg = 109.98 8.757830781649071
+total_area_avg = 1357.58 107.4731761882936
+total_out_avg =  23.7 14.041723540933285
+total_time =  6.505254707336426 5.401341779555432
+quad2
+total_insert_avg = 135.22 6.777285592329719
+total_area_avg = 1664.66 78.98040516482556
+total_out_avg =  1.48 2.3852882425400916
+total_time =  5.744614691734314 0.7607109029038233
+quad4
+total_insert_avg = 137.9 4.916299421312742
+total_area_avg = 1696.14 70.17834708797294
+total_out_avg =  0.48 1.153082824431966
+total_time =  69.84406189441681 50.43759024086281
+!!!start!!!
+epoch 50
+param [20, 30, 3, 4, 10, 50, 60]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, False, False]
+random
+total_insert_avg = 36.5 4.272001872658765
+total_area_avg = 452.02 58.56636918915155
+total_out_avg =  2.4 1.98997487421324
+total_time =  0.5549345397949219 0.33088332956677186
+depth
+total_insert_avg = 25.9 8.958236433584458
+total_area_avg = 324.14 111.41328646081669
+total_out_avg =  9.64 7.809635074700994
+total_time =  2.29246148109436 2.2647996919570903
+quad2
+total_insert_avg = 36.08 4.91056004952592
+total_area_avg = 446.52 63.2576445973133
+total_out_avg =  2.36 2.2782449385437027
+total_time =  1.1755757427215576 0.4399278790846775
+quad4
+total_insert_avg = 36.84 4.410714227877385
+total_area_avg = 454.96 59.28202425693643
+total_out_avg =  1.52 1.4034243834279065
+total_time =  7.557981915473938 2.524837450136796
+epoch 50
+param [20, 30, 3, 4, 10, 100, 110]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, False, False]
+random
+total_insert_avg = 85.8 3.9597979746446663
+total_area_avg = 1056.14 55.9560577596385
+total_out_avg =  1.84 1.3320660644277371
+total_time =  0.7243044137954712 0.25087276849059686
+depth
+total_insert_avg = 73.84 8.422256229775961
+total_area_avg = 912.3 109.28096815090906
+total_out_avg =  10.72 7.621128525356334
+total_time =  2.7786746501922606 2.5286168106364544
+quad2
+total_insert_avg = 85.46 4.539647563412825
+total_area_avg = 1051.76 62.380304584059225
+total_out_avg =  2.12 2.07499397589487
+total_time =  3.0262990236282348 0.5306926990500015
+quad4
+total_insert_avg = 87.08 3.41666504065002
+total_area_avg = 1071.64 50.784155009215226
+total_out_avg =  1.32 1.1214276615100949
+total_time =  92.22342826366425 309.2223653661929
+epoch 50
+param [20, 30, 3, 4, 1, 150, 150]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, False, False]
+random
+total_insert_avg = 128.72 3.954946270178648
+total_area_avg = 1583.68 57.58105243914876
+total_out_avg =  1.82 1.8405433980213561
+total_time =  0.8427148056030274 0.2900995723447745
+depth
+total_insert_avg = 110.62 7.334548384188355
+total_area_avg = 1365.24 94.24575534208424
+total_out_avg =  20.28 9.742771679558132
+total_time =  5.2587541532516475 3.5103289698821776
+quad2
+total_insert_avg = 129.78 4.850938053613961
+total_area_avg = 1597.94 64.28947347738975
+total_out_avg =  1.56 1.8564482217395668
+total_time =  5.681467008590698 0.44952155225540197
+quad4
+total_insert_avg = 129.9 4.38748219369606
+total_area_avg = 1596.74 61.92311684661876
+total_out_avg =  1.0 1.0954451150103321
+total_time =  86.52800729751587 20.631753006076842
+!!!start!!!
+epoch 50
+param [20, 30, 3, 4, 10, 50, 60]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, False]
+random
+total_insert_avg = 32.94 4.509589781787253
+total_area_avg = 411.7 60.1332686621973
+total_out_avg =  1.6 1.3856406460551018
+total_time =  0.494750337600708 0.253871558242525
+depth
+total_insert_avg = 24.28 7.944910320450446
+total_area_avg = 307.48 98.32074857322843
+total_out_avg =  6.74 4.586109462278458
+total_time =  1.5178555917739869 1.2268930932741646
+quad2
+total_insert_avg = 32.64 5.117655713312493
+total_area_avg = 408.22 67.68346622329564
+total_out_avg =  1.66 2.006090725764914
+total_time =  1.0947184896469115 0.3599644371635254
+quad4
+total_insert_avg = 34.18 4.416740879879643
+total_area_avg = 426.14 57.777853888838756
+total_out_avg =  1.1 1.1357816691600546
+total_time =  8.44569908618927 2.4266828174938504
+epoch 50
+param [20, 30, 3, 4, 10, 100, 110]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, False]
+random
+total_insert_avg = 81.74 5.847426784492474
+total_area_avg = 1014.02 71.05335741539594
+total_out_avg =  1.72 1.6375591592366978
+total_time =  0.7759757757186889 0.3858128869060216
+depth
+total_insert_avg = 71.62 9.530771217482876
+total_area_avg = 891.98 115.83462176741459
+total_out_avg =  7.7 4.725462940284264
+total_time =  2.1279219245910643 1.5921936777534196
+quad2
+total_insert_avg = 81.1 5.838664230798
+total_area_avg = 1005.72 72.31460156842462
+total_out_avg =  1.74 1.4671059948074643
+total_time =  2.966937665939331 0.37401149908975184
+quad4
+total_insert_avg = 82.04 5.440441158582638
+total_area_avg = 1017.3 68.1986070238975
+total_out_avg =  1.62 1.5477725931156683
+total_time =  35.47661283969879 11.077620461112812
+random
+total_insert_avg = 132.72 5.192456066256122
+total_area_avg = 1634.44 76.60865747420458
+total_out_avg =  1.94 1.42
+total_time =  0.9189846324920654 0.3425291640668113
+depth
+total_insert_avg = 123.26 8.428072140175356
+total_area_avg = 1521.88 114.34310473307956
+total_out_avg =  7.54 4.318379325626687
+total_time =  2.288042893409729 1.6227867577622341
+quad2
+total_insert_avg = 132.7 5.307541803886239
+total_area_avg = 1633.86 72.08467520909004
+total_out_avg =  1.62 1.5217095649301806
+total_time =  5.70914249420166 0.3852737579563156
+quad4
+total_insert_avg = 132.84 5.232055045581993
+total_area_avg = 1635.84 74.29060775091288
+total_out_avg =  1.82 1.4239382009062047
+total_time =  79.37834496974945 20.62916934830888
+!!!start!!!
+epoch 50
+param [40, 40, 3, 4, 10, 50, 60]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, False]
+random
+total_insert_avg = 1.22 1.4323407415835103
+total_area_avg = 18.48 20.875095209363714
+total_out_avg =  5.88 2.303388807822075
+total_time =  5.039190111160278 1.9194048711993843
+depth
+total_insert_avg = 0.0 0.0
+total_area_avg = 0.0 0.0
+total_out_avg =  23.96 5.2875703305015245
+total_time =  31.228469591140747 8.430385113894113
+quad2
+total_insert_avg = 3.72 3.8937899275641463
+total_area_avg = 50.1 49.44097490948171
+total_out_avg =  3.68 2.76
+total_time =  4.929332389831543 2.959887591578867
+quad4
+total_insert_avg = 3.04 3.5774851502137643
+total_area_avg = 40.96 44.069472427066785
+total_out_avg =  4.42 2.41735392526622
+total_time =  24.578385839462282 2.68716479405542
+epoch 50
+param [40, 40, 3, 4, 10, 100, 110]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, False]
+random
+total_insert_avg = 48.34 3.6199999999999997
+total_area_avg = 601.28 44.61481368334962
+total_out_avg =  6.02 2.989916386790774
+total_time =  5.971005854606628 2.416938995569036
+depth
+total_insert_avg = 6.5 2.670205984563738
+total_area_avg = 90.56 36.46431680424028
+total_out_avg =  59.56 11.123236938949022
+total_time =  75.90656993865967 18.12429016724766
+quad2
+total_insert_avg = 49.92 8.585662467160004
+total_area_avg = 621.32 103.2798993028169
+total_out_avg =  4.62 3.918622206847708
+total_time =  7.727565488815308 3.9409449187996217
+quad4
+total_insert_avg = 49.32 5.371927028543854
+total_area_avg = 611.82 65.48669788590657
+total_out_avg =  5.3 3.371943060017473
+total_time =  94.0750927734375 10.31043249068639
+epoch 50
+param [40, 40, 3, 4, 10, 150, 160]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, False]
+random
+total_insert_avg = 97.34 3.7073440628029117
+total_area_avg = 1200.9 47.629087751079176
+total_out_avg =  6.4 2.569046515733026
+total_time =  6.402313194274902 1.9750146141603329
+depth
+total_insert_avg = 53.86 3.5944957921800382
+total_area_avg = 676.6 44.42026564531104
+total_out_avg =  54.92 12.945794683989083
+total_time =  76.39773162364959 23.059477856426952
+quad2
+total_insert_avg = 96.48 8.452786522798267
+total_area_avg = 1190.98 101.74212303662628
+total_out_avg =  6.04 4.74113910363322
+total_time =  12.16357328414917 4.615093826640509
+quad4
+total_insert_avg = 98.38 6.560152437253269
+total_area_avg = 1213.16 78.22285088131217
+total_out_avg =  5.78 3.232893440866865
+total_time =  208.6139919948578 22.930717651999174
+!!!start!!!
+epoch 50
+param [40, 40, 3, 4, 10, 50, 60]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, False, False, False]
+random
+total_insert_avg = 17.6 3.4928498393145966
+total_area_avg = 219.58 41.28442321263554
+total_out_avg =  4.02 2.5257870060636547
+total_time =  3.732113585472107 1.8612944662682442
+depth
+total_insert_avg = 0.0 0.0
+total_area_avg = 0.0 0.0
+total_out_avg =  48.94 9.847659620437742
+total_time =  77.3492924451828 14.717637814427386
+quad2
+total_insert_avg = 21.36 9.074712116645905
+total_area_avg = 269.54 114.31871412852753
+total_out_avg =  4.12 5.274997630331222
+total_time =  4.7171107244491575 4.826029942413286
+quad4
+total_insert_avg = 26.78 6.109959083332719
+total_area_avg = 335.3 72.27897342934529
+total_out_avg =  1.36 1.6094719630984569
+total_time =  14.668863620758056 3.0829585318312214
+epoch 50
+param [40, 40, 3, 4, 10, 100, 110]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, False, False, False]
+random
+total_insert_avg = 66.84 4.809823281576985
+total_area_avg = 828.66 64.17900279686496
+total_out_avg =  4.68 3.5464912237308583
+total_time =  26.273826208114624 137.38473419380642
+depth
+total_insert_avg = 10.14 5.184631134420268
+total_area_avg = 137.4 74.1039809996737
+total_out_avg =  83.22 33.88054899201015
+total_time =  349.07217934608457 985.0876786078481
+quad2
+total_insert_avg = 69.76 9.916773668890503
+total_area_avg = 866.3 124.20277774671547
+total_out_avg =  3.62 4.293669759075562
+total_time =  10.222750821113586 27.38839495004418
+quad4
+total_insert_avg = 77.46 7.462466080324922
+total_area_avg = 961.76 88.57055041039318
+total_out_avg =  1.28 1.7092688495377197
+total_time =  76.8289613199234 125.6114215912782
+epoch 50
+param [40, 40, 3, 4, 10, 150, 160]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, False, False, False]
+random
+total_insert_avg = 118.82 4.407675124144246
+total_area_avg = 1463.84 60.41468695607054
+total_out_avg =  3.16 2.4113066996962456
+total_time =  3.8844960021972654 1.7399055399801233
+depth
+total_insert_avg = 59.14 5.043847737590816
+total_area_avg = 732.14 71.76210977946509
+total_out_avg =  86.32 35.32446177933925
+total_time =  170.31033291339875 199.6881911395348
+quad2
+total_insert_avg = 118.16 13.104747231442504
+total_area_avg = 1460.96 160.5814385288661
+total_out_avg =  5.74 7.817442036881372
+total_time =  11.34674400806427 6.501868829551971
+quad4
+total_insert_avg = 125.8 8.392854103342914
+total_area_avg = 1556.2 99.46396332340673
+total_out_avg =  1.4 2.1354156504062622
+total_time =  158.20280155658722 214.88276730924704
+!!!start!!!
+epoch 50
+param [40, 40, 3, 4, 10, 50, 60]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, False, False]
+random
+total_insert_avg = 7.22 3.500228563965502
+total_area_avg = 96.08 45.52223193122235
+total_out_avg =  6.66 3.7234929837452366
+total_time =  5.673600826263428 3.1524085728694926
+depth
+total_insert_avg = 0.0 0.0
+total_area_avg = 0.0 0.0
+total_out_avg =  45.26 8.783643890777904
+total_time =  62.34219879627228 12.955096171338841
+quad2
+total_insert_avg = 10.78 8.02069822397028
+total_area_avg = 141.98 103.74960048115847
+total_out_avg =  4.76 4.86851106602419
+total_time =  5.276689014434814 4.06804401684365
+quad4
+total_insert_avg = 12.92 4.546823066713725
+total_area_avg = 167.86 56.388654887308675
+total_out_avg =  3.0 1.8220867158288598
+total_time =  21.26046689033508 2.740027471390202
+epoch 50
+param [40, 40, 3, 4, 10, 100, 110]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, False, False]
+random
+total_insert_avg = 56.64 3.6428560224087914
+total_area_avg = 700.94 49.48147532157868
+total_out_avg =  4.94 2.335893833203898
+total_time =  5.021827244758606 2.047449404539433
+depth
+total_insert_avg = 6.34 3.490615991483452
+total_area_avg = 89.1 49.38147425907817
+total_out_avg =  91.48 24.08006644509105
+total_time =  130.10736753463746 38.02227632935504
+quad2
+total_insert_avg = 60.26 8.335010497893808
+total_area_avg = 744.82 103.32970337710255
+total_out_avg =  3.56 3.539265460515783
+total_time =  6.532224197387695 2.681013803500918
+quad4
+total_insert_avg = 60.84 6.103638259267992
+total_area_avg = 750.68 79.22258263904303
+total_out_avg =  3.62 2.8627958362412085
+total_time =  79.09730179309845 11.627566766223538
+epoch 50
+param [40, 40, 3, 4, 10, 150, 160]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, False, False]
+random
+total_insert_avg = 106.78 4.54
+total_area_avg = 1315.74 62.2346559402396
+total_out_avg =  5.22 2.7443760675242745
+total_time =  5.726065773963928 2.230360623685451
+depth
+total_insert_avg = 54.8 4.354308211415448
+total_area_avg = 686.06 62.229385341653504
+total_out_avg =  83.72 27.494028442554573
+total_time =  117.63357776641845 41.0433756674155
+quad2
+total_insert_avg = 110.44 8.660623534134249
+total_area_avg = 1360.04 106.38645778481394
+total_out_avg =  4.6 3.9242833740697165
+total_time =  10.387297286987305 3.1455001951749186
+quad4
+total_insert_avg = 112.92 6.793644088410873
+total_area_avg = 1388.94 90.5333993617825
+total_out_avg =  3.18 3.3207830401879614
+total_time =  164.95415653228758 27.16818962403072
+!!!start!!!
+epoch 50
+param [40, 40, 3, 4, 10, 50, 60]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 0.46 0.8765842800324449
+total_area_avg = 7.2 13.856406460551018
+total_out_avg =  4.2 1.6852299546352716
+total_time =  3.9689722156524656 1.2274762684052714
+depth
+total_insert_avg = 0.0 0.0
+total_area_avg = 0.0 0.0
+total_out_avg =  18.9 4.746577714522328
+total_time =  27.245594964027404 11.330332112620756
+quad2
+total_insert_avg = 1.12 2.0458738964071075
+total_area_avg = 15.84 27.841235604764382
+total_out_avg =  3.12 1.8935680605671399
+total_time =  4.128326482772827 1.4552209817247639
+quad4
+total_insert_avg = 0.68 1.2718490476467716
+total_area_avg = 9.88 17.9116051765329
+total_out_avg =  3.22 1.6283734215467902
+total_time =  23.718754019737244 2.434030122764062
+epoch 50
+param [40, 40, 3, 4, 10, 100, 110]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 42.5 3.7802116342871597
+total_area_avg = 530.86 49.87023561203616
+total_out_avg =  5.76 2.818226392609366
+total_time =  5.564577531814575 1.940149918984178
+depth
+total_insert_avg = 5.4 1.9899748742132397
+total_area_avg = 79.94 30.12999170262083
+total_out_avg =  48.52 9.069156520867859
+total_time =  62.958199434280395 16.997045273950942
+quad2
+total_insert_avg = 42.52 5.3562673570313875
+total_area_avg = 534.46 64.62513752403163
+total_out_avg =  5.24 2.990384590650507
+total_time =  18.83860622882843 75.62012645436604
+quad4
+total_insert_avg = 42.98 5.065530574382115
+total_area_avg = 537.0 64.47418087886034
+total_out_avg =  4.92 2.5126878039263056
+total_time =  119.50837400436401 140.56032648001315
+epoch 50
+param [40, 40, 3, 4, 10, 150, 160]
+methods ['random', 'depth', 'quad2', 'quad4']
+flag [True, True, True, True]
+random
+total_insert_avg = 91.98 3.495654445164739
+total_area_avg = 1137.38 46.089430458620335
+total_out_avg =  6.34 2.329034134571668
+total_time =  6.838969779014588 2.2140401315307536
+depth
+total_insert_avg = 52.02 3.455372628241417
+total_area_avg = 658.48 41.574626877459764
+total_out_avg =  50.46 8.711394836649296
+total_time =  167.97189073562623 342.4558169105827
+quad2
+total_insert_avg = 93.92 6.653840995996223
+total_area_avg = 1162.0 79.08223567907018
+total_out_avg =  4.04 2.6829834140374405
+total_time =  10.626297245025635 2.4839607988676393
+quad4
+total_insert_avg = 91.9 3.996248240537617
+total_area_avg = 1135.06 49.865182241720525
+total_out_avg =  5.12 2.0063897926375125
+total_time =  379.68439922332766 615.387752673207
